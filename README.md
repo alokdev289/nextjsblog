@@ -1,3 +1,3 @@
 # BlogPage
 
-Description
+Description about static web page
